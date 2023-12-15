@@ -1,6 +1,3 @@
-## E-Commerce App
-
-- [Project Link](https://ecommerce-app-mu-six.vercel.app/)
 
 - This is a Next.js project bootstrapped with create-next-app.
 
